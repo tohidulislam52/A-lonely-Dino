@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 2f107483f9152124eb0dade98da02b35
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 1253262239134173167
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Action_Pose|RaptorArmature
+  - first:
+      74: 2894267262390227685
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Bite1_Anim|RaptorArmature|
+  - first:
+      74: -8155913736328836812
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Bite2_Anim|RaptorArmature|
+  - first:
+      74: 52948187680327898
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Call1_Anim|RaptorArmature|
+  - first:
+      74: 7889138160602416724
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Death1_Anim|RaptorArmature
+  - first:
+      74: -269452430521852943
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Death2_Anim|RaptorArmature
+  - first:
+      74: 4028753225592254441
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Drink_Anim|RaptorArmature|
+  - first:
+      74: 2186754378574106698
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_EatPrey_Anim|RaptorArmatur
+  - first:
+      74: -6648106765189652982
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_GoToSleep_Anim|RaptorArmat
+  - first:
+      74: 5403429125838442380
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Hit1_Anim|RaptorArmature|R
+  - first:
+      74: 3391135870531477492
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Hit2_Anim|RaptorArmature|R
+  - first:
+      74: -2598120066418152606
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Hit3_Anim_RM|RaptorArmatur
+  - first:
+      74: 6592433912392832722
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Hit3_Anim|RaptorArmature|R
+  - first:
+      74: -2753167770557253458
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Idle1_Anim|RaptorArmature|
+  - first:
+      74: -6764833784726611042
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Idle2_Anim|RaptorArmature|
+  - first:
+      74: -8161441710753510342
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Leap1_Anim_RM|RaptorArmatu
+  - first:
+      74: -5114499908684311964
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Leap1_Anim|RaptorArmature|
+  - first:
+      74: -3887467194653778109
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Leap2_Anim_RM|RaptorArmatu
+  - first:
+      74: -1398631452929472024
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Leap2_Anim|RaptorArmature|
+  - first:
+      74: 7877022171006887816
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Roar1_Anim|RaptorArmature|
+  - first:
+      74: -3842536040252246229
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Roar2_Anim|RaptorArmature|
+  - first:
+      74: 3593326823510333841
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Run1_Anim_RM|RaptorArmatur
+  - first:
+      74: 2116291867286330629
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Run1_Anim|RaptorArmature|R
+  - first:
+      74: 1036879627987892803
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Run2_Anim_RM|RaptorArmatur
+  - first:
+      74: -5510348140021376532
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Run2_Anim|RaptorArmature|R
+  - first:
+      74: -4367709122017908598
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Screech1_Anim|RaptorArmatu
+  - first:
+      74: 1387981959211724468
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_SleepLoop_Anim|RaptorArmat
+  - first:
+      74: -6546972408847852651
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_SniffGround_Anim|RaptorArm
+  - first:
+      74: -4416281096820921993
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Tackle_Anim_RM|RaptorArmat
+  - first:
+      74: -3076097202125822877
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Tackle_Anim|RaptorArmature
+  - first:
+      74: -727509077381733395
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_WakeFromSleep_Anim|RaptorA
+  - first:
+      74: -6266218859935424941
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Walk_Anim_RM|RaptorArmatur
+  - first:
+      74: 4035208393238780750
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Raptor_Walk_Anim|RaptorArmature|R
+  - first:
+      74: 2259014036142015244
+    second: RaptorArmature|RaptorArmature|RaptorArmature|Standard_Pose|RaptorArmature|Stan
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

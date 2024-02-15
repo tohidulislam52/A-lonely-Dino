@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hydrodamalis gigas skeleton
+* source:	https://sketchfab.com/3d-models/hydrodamalis-gigas-skeleton-94a4be17576e4e8a9e17dd3d3a2d25de
+* author:	SchmalhausenEvolMorph (https://sketchfab.com/SchmalhausenEvolMorph)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hydrodamalis gigas skeleton" (https://sketchfab.com/3d-models/hydrodamalis-gigas-skeleton-94a4be17576e4e8a9e17dd3d3a2d25de) by SchmalhausenEvolMorph (https://sketchfab.com/SchmalhausenEvolMorph) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
